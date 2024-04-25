@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Kochar</h1>
 <h3 align="center">“A dedicated frontend developer from India, crafting engaging digital experiences.”</h3>
-<iframe src="https://giphy.com/embed/Rpl1sod1vCXK0L2SUN" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacker-sugartown-mayor-mel-Rpl1sod1vCXK0L2SUN">via GIPHY</a></p>
+<img src="https://giphy.com/embed/Rpl1sod1vCXK0L2SUN" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkochar9008&label=Profile%20views&color=0e75b6&style=flat" alt="harshkochar9008" /> </p>
 
