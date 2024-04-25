@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Kochar</h1>
 <h3 align="center">“A dedicated frontend developer from India, crafting engaging digital experiences.”</h3>
-<img src="https://giphy.com/embed/Rpl1sod1vCXK0L2SUN" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
-
+<img src="https://i.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.webp" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkochar9008&label=Profile%20views&color=0e75b6&style=flat" alt="harshkochar9008" /> </p>
 
 <p align="left"> <a href="https://twitter.com/too_harshk" target="blank"><img src="https://img.shields.io/twitter/follow/too_harshk?logo=twitter&style=for-the-badge" alt="too_harshk" /></a> </p>
