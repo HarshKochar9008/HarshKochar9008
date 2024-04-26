@@ -1,3 +1,4 @@
+<img align="center" src="[https://i.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.webp](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 <h1 align="center">Hi 👋, I'm Harsh Kochar</h1>
 <h3 align="center">“A dedicated frontend developer from India, crafting engaging digital experiences.”</h3>
 <img align="center" src="https://i.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.webp" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
