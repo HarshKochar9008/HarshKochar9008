@@ -1,7 +1,7 @@
 <img align="center" src="https://i.redd.it/n91yji2yz6yb1.gif" width="9800" height="450" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 <h1 align="center">Hey , I'm Harsh Kochar</h1>
 <h3 align="center">“A dedicated frontend developer from India, crafting engaging digital experiences.”</h3>
-<img align="right" src="https://giffiles.alphacoders.com/215/215911.gif" width="480" height="270" style="object-fit: cover; width: 200px;height: 200px;" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img align="right" src="https://giffiles.alphacoders.com/215/215911.gif" width="480" height="270" style="object-fit: cover; width: 400px;height: 200px;" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkochar9008&label=Profile%20views&color=0e75b6&style=flat" alt="harshkochar9008" /> </p>
 
 <p align="left"> <a href="https://twitter.com/too_harshk" target="blank"><img src="https://img.shields.io/twitter/follow/too_harshk?logo=twitter&style=for-the-badge" alt="too_harshk" /></a> </p>
