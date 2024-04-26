@@ -1,4 +1,4 @@
-<img align="center" src="https://i.redd.it/n91yji2yz6yb1.gif" width="680" height="370" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img align="center" src="https://i.redd.it/n91yji2yz6yb1.gif" width="880" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 <h1 align="center">Hi 👋, I'm Harsh Kochar</h1>
 <h3 align="center">“A dedicated frontend developer from India, crafting engaging digital experiences.”</h3>
 <img align="right" src="https://i.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.webp" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
