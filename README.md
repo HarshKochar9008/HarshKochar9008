@@ -4,7 +4,7 @@
 <img align="right" src="https://giffiles.alphacoders.com/215/215911.gif" width="480" height="270" style="object-fit: cover; width: 350px;height: 300px;" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkochar9008&label=Profile%20views&color=0e75b6&style=flat" alt="harshkochar9008" /> </p>
 
-<h1 align="center">Know about me ❓⚜️⚠️☣️</h1>
+<h1 align="center">Know about me 🤓</h1>
 - 🔭 I’m currently working on **Frontend Developer**
 
 - 🌱 I’m currently learning **Next js**
