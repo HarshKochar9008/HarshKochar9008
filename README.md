@@ -13,15 +13,15 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
-✨ Curious mind who loves building and experimenting  
-🚀 Passionate about technology, design & innovation  
-🧠 Always learning, always evolving  
+- Curious mind who loves building and experimenting  
+- Passionate about technology, design & innovation  
+- Always learning, always evolving  
 
 ---
 
-## ⚡ Tech Universe
+## ⚡ Tech Verse
 
 <p align="center">
 
@@ -31,7 +31,7 @@
 
 ---
 
-## 🧠 Developer Mindset
+##  Developer Mindset
 
 <p align="center">
 
@@ -80,7 +80,7 @@
 
 ---
 
-## 💬 Dev Quote
+##  Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
