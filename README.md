@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./harsh-profile-banner.svg" width="100%" alt="Harsh Kochar — Full-Stack Developer, AI Engineer and Product Builder" />
+  <img src="./harsh-profile-banner.png" width="100%" alt="Harsh Kochar — Full-Stack Developer, AI Engineer and Product Builder" />
 
   <br />
 
